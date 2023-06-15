@@ -1,10 +1,1 @@
-# Task Manager App
-
-[![Application Design Illustration](App_Illustration.png)](https://www.youtube.com/watch?v=V-CeWkz1MNQ&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd)
-
-##### Watch the full tutorial on [Youtube](https://www.youtube.com/watch?v=V-CeWkz1MNQ&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd)! 
-
-##### This repository contains the code for both the Angular frontend application as well as the NodeJS API. 
-
-> Don't forget to run `npm install` in both the **api** and **frontend** folders to install dependencies
-
+This Task Manager application is a full-stack app built using Angular for the front end, Node.js for the back end, and MongoDB as the database. It allows users to manage and organize their tasks efficiently. The Task Manager app aims to provide a seamless user experience for managing tasks, including task creation, editing, filtering, sorting, and user authentication. The combination of Angular, Node.js, and MongoDB enables a full-stack solution for building a robust and scalable task management application.
